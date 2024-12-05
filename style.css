@@ -1,0 +1,202 @@
+.xammasiga {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+
+
+}
+
+.xammasiga1 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-around;
+    width: 1000px;
+}
+
+.menyuga {
+    display: flex;
+    justify-content: center;
+    gap: 90px;
+    margin-top: 90px;
+}
+
+.xammasiga2 {
+    display: flex;
+    justify-content: end;
+    width: 1320px;
+
+}
+
+.food {
+    font-size: 80px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+.food1 {
+    font-size: 100px;
+    font-weight: 700;
+    color: #90E051;
+    margin: 0px;
+}
+
+.rasm {
+    width: 800px;
+    height: 650px;
+}
+
+.food2 {
+    font-size: 20px;
+    font-weight: 500;
+    width: 600 px;
+    height: 57px;
+}
+
+.food3 {
+    font-size: 29.4px;
+    font-weight: 500;
+    color: #FFFFFF;
+    background-color: #90E051;
+    border-radius: 20px;
+    width: 246px;
+    height: 88px;
+}
+
+.menyu {
+    margin-top: 40px;
+    display: flex;
+    align-items: center;
+}
+
+.rasmm {
+    width: 600px;
+    height: 650px;
+}
+
+.menyu1 {
+    width: 180px;
+    height: 125px;
+}
+
+.retsept {
+    width: 200px;
+    height: 38px;
+
+
+}
+
+.star {
+    color: yellow;
+
+}
+
+.pluss {
+    background-color: green;
+    color: #FFFFFF;
+    border-radius: 50%;
+    padding: 5px;
+
+}
+
+.bg {
+    background-color: #86e63d;
+    border-radius: 30px;
+
+}
+
+.xamma2 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+
+}
+
+.xamma {
+    border: 2px solid;
+    width: 600px;
+    background: linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #90E051 116.84%);
+    box-shadow: 0px 17.27px 157.94px -21.59px #00000040;
+
+
+    padding: 40px;
+    border-radius: 30px;
+}
+
+
+.xamma1 {
+    background-color: #FFFFFF;
+    width: 265.54px;
+    height: 320px;
+    border-radius: 26px;
+}
+
+.retsept1 {
+    font-size: 19.19px;
+    font-weight: 700;
+    line-height: 22.73px;
+    letter-spacing: -0.025em;
+    text-align: left;
+
+}
+
+.retsept2 {
+    font-size: 16.23px;
+    font-weight: 500;
+    line-height: 19.24px;
+    letter-spacing: -0.025em;
+    text-align: left;
+}
+
+.narx1 {
+    display: flex;
+    align-items: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 40px;
+    gap: 10px;
+
+}
+
+.narx2 {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-left: 15px;
+    padding-right: 15px;
+    height: 10px;
+
+}
+
+.narx3 {
+    color: #90E051;
+}
+
+.menyuu {
+    display: flex;
+    gap: 40px;
+    margin-top: 20px;
+    align-items: center;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    bottom: 80px;
+}
+
+.button button {
+    text-align: center;
+    color: #90E051;
+    background-color: #FFFFFF;
+    border: 1px #FFFFFF solid;
+    width: 265px;
+    height: 63px;
+    box-shadow: 5px 5px #86e63d, 10px 10px #86e63d  ;
+
+    border-radius: 15px;
+    font-size: 22px;
+    font-weight: 700;
+    line-height: 26px;
+}
